@@ -1,0 +1,16 @@
+# Python системные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Локальные базы данных (SQL)
+*.sqlite
+*.sqlite3
+*.db
+
+# Системные файлы операционных систем
+.DS_Store
+Thumbs.db
