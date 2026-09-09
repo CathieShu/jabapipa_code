@@ -2,7 +2,7 @@
 
 Hi there! I'm Cathie. I am an aspiring Data Analyst. In this repository, I document my learning progress, store practical exercises, and showcase my data analytics portfolio projects.
 
-In July'26 I signed up for the state-offered professional re-qualification proramm at the Financial University under the Government of the Russian Federation. It's a boot-camp, designed for adults looking to change their careers. I'm garduating at the end of September'26, and from there on I'm on my own in this learning journey.
+In July'26 I signed up for the state-offered professional re-qualification proramm at the Financial University under the Government of the Russian Federation. It's a boot-camp, designed for adults looking to change their careers. I'm graduating at the end of September'26, and from there on I'm on my own in this learning journey.
 
 From a professional ballerina to 9+ years in Customer Care, to a Data Analyst, it is a long way up a very steep hill for me, but I'm determined to see it through.
 
