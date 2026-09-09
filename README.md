@@ -6,7 +6,7 @@ In July'26 I signed up for the state-offered professional re-qualification prora
 
 From a professional ballerina to 9+ years in Customer Care, to a Data Analyst, it is a long way up a very steep hill for me, but I'm determined to see it through.
 
-Additionally to the official certification of professional re-qualification, I'm also taking on IBM's Data Analyst course to have the knowledge "dubbed" in English. My eyes are also set on a few more single skill/tool-oriented certifiaction programms -- we'll see how it goes!
+Additionally to the official certification of professional re-qualification, I'm taking on IBM's Data Analyst course to have the knowledge "dubbed" in English. My eyes are also set on a few more single skill/tool-oriented certifiaction programms -- we'll see how it goes!
 
 ## 🛠️ I am currently working on acquiring the following skills:
 
