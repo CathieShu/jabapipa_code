@@ -21,11 +21,11 @@ Additionally to the official certification of professional re-qualification, I'm
 
 ```jabapipa_code
 ├── 🎓 learning&practice/        # Educational materials and skill-building
-│   ├── 📚 books/       # Notes and summaries from data analytics books/courses
-│   ├── 🔗 links.md     # Curated list of useful documentation, cheat sheets, and articles
-│   └── 💻 practice/    # Code snippets, practice tasks and pet-projects
+│   ├── 📚 books/                # Notes and summaries from data analytics books/courses
+│   ├── 🔗 links.md              # Curated list of useful documentation, cheat sheets, and articles
+│   └── 💻 practice/             # Code snippets, practice tasks and pet-projects
 │
-└── 💼 portfolio/       # End-to-end data analytics projects for my resume
+└── 💼 portfolio/                # End-to-end data analytics projects for my resume
     └── [Coming Soon: My first data analysis projects and dashboards!]
 ```
 
